@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectAkhir</string>
+    <string name="football_name">Football Club Name</string>
+    <string name="detail">Detail</string>
+    <string name="list_football_club">List Football Club</string>
+    <string name="profil">Profil</string>
+    <string name="muchammad_saifurrijaal">Muchammad Saifurrijaal</string>
+    <string name="email_user">email : msaifurrijaal@gmail.com</string>
+</resources>
